@@ -3,14 +3,8 @@
     <jdk version="2">
       <name value="1.8" />
       <type value="JavaSDK" />
-      <version value="java version &quot;1.8.0_161&quot;" />
       <homePath value="C:/Program Files/Java/jdk1.8.0_161" />
       <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jar://C:/Program Files/Java/jdk1.8.0_161/jre/lib/charsets.jar!/" type="simple" />
@@ -38,14 +32,164 @@
             <root url="jar://C:/Program Files/Java/jdk1.8.0_161/jre/lib/rt.jar!/" type="simple" />
           </root>
         </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/" type="simple" />
             <root url="jar://C:/Program Files/Java/jdk1.8.0_161/javafx-src.zip!/" type="simple" />
           </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 19 Platform" />
+      <type value="Android SDK" />
+      <homePath value="C:\Program Files (x86)\Android\android-sdk" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/Program Files (x86)/Android/android-sdk/platforms/android-19/android.jar!/" type="simple" />
+            <root url="file://C:/Program Files (x86)/Android/android-sdk/platforms/android-19/data/res" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 21 Platform" />
+      <type value="Android SDK" />
+      <homePath value="C:\Program Files (x86)\Android\android-sdk" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/Program Files (x86)/Android/android-sdk/platforms/android-21/android.jar!/" type="simple" />
+            <root url="file://C:/Program Files (x86)/Android/android-sdk/platforms/android-21/data/res" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 22 Platform" />
+      <type value="Android SDK" />
+      <homePath value="C:\Program Files (x86)\Android\android-sdk" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/Program Files (x86)/Android/android-sdk/platforms/android-22/android.jar!/" type="simple" />
+            <root url="file://C:/Program Files (x86)/Android/android-sdk/platforms/android-22/data/res" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 23 Platform" />
+      <type value="Android SDK" />
+      <homePath value="C:\Program Files (x86)\Android\android-sdk" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/Program Files (x86)/Android/android-sdk/platforms/android-23/android.jar!/" type="simple" />
+            <root url="file://C:/Program Files (x86)/Android/android-sdk/platforms/android-23/data/res" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 24 Platform" />
+      <type value="Android SDK" />
+      <homePath value="C:\Program Files (x86)\Android\android-sdk" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/Program Files (x86)/Android/android-sdk/platforms/android-24/android.jar!/" type="simple" />
+            <root url="file://C:/Program Files (x86)/Android/android-sdk/platforms/android-24/data/res" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 25 Platform" />
+      <type value="Android SDK" />
+      <homePath value="C:\Program Files (x86)\Android\android-sdk" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/Program Files (x86)/Android/android-sdk/platforms/android-25/android.jar!/" type="simple" />
+            <root url="file://C:/Program Files (x86)/Android/android-sdk/platforms/android-25/data/res" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 26 Platform" />
+      <type value="Android SDK" />
+      <homePath value="C:\Program Files (x86)\Android\android-sdk" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/Program Files (x86)/Android/android-sdk/platforms/android-26/android.jar!/" type="simple" />
+            <root url="file://C:/Program Files (x86)/Android/android-sdk/platforms/android-26/data/res" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 27 Platform" />
+      <type value="Android SDK" />
+      <homePath value="C:\Program Files (x86)\Android\android-sdk" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/Program Files (x86)/Android/android-sdk/platforms/android-27/android.jar!/" type="simple" />
+            <root url="file://C:/Program Files (x86)/Android/android-sdk/platforms/android-27/data/res" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 28 Platform" />
+      <type value="Android SDK" />
+      <homePath value="C:\Program Files (x86)\Android\android-sdk" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/Program Files (x86)/Android/android-sdk/platforms/android-28/android.jar!/" type="simple" />
+            <root url="file://C:/Program Files (x86)/Android/android-sdk/platforms/android-28/data/res" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
         </sourcePath>
       </roots>
       <additional />
